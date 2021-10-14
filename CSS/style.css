@@ -1554,6 +1554,7 @@ table {
     font-size: calc(10pt + 00.15vw);
     margin: 0px 0px 0px 20px;
     transform: translateY(40px);
+    font-family: 'Helvetica__Bold';
 }
 
 .dot-cl {
@@ -1567,6 +1568,8 @@ table {
     color: #0BB783;
     background-color: #54d7d793;
     border: none;
-    padding: 5px;
+    padding: 8px;
     border-radius: 10px;
+    font-family: 'Helvetica__Bold';
+    font-size: calc(8pt + 0.15vw);
 }
